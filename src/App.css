@@ -1,0 +1,46 @@
+.lobby {
+  text-align: center;
+  padding: 50px;
+}
+
+input {
+  margin: 10px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.table {
+  text-align: center;
+  padding: 20px;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.card {
+  width: 60px;
+  height: 90px;
+  border-radius: 6px;
+  box-shadow: 0 0 5px #000;
+}
+
+.chips {
+  margin-top: 5px;
+  font-size: 18px;
+  color: gold;
+}
+
+.controls {
+  margin-top: 30px;
+}
